@@ -22,18 +22,14 @@ Resecodefor
 5. abc
 6. 1a1b1c
 7.2z2x2c
-
-
 revert
-
 1. 11
 2
 3
 4
 5
 6
- 
  ## check
  1
-
-
+1. 1
+2
