@@ -21,5 +21,6 @@ Resecodefor
 4. 987
 5. abc
 6. 1a1b1c
+7.2z2x2c
 
 
