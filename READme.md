@@ -14,3 +14,13 @@ conflict resloved
 3. any
 4. over
 
+Resecodefor
+1. ABC
+2. XYZ
+3. 123
+4. 987
+5. abc
+6. 1a1b1c
+7.2z2x2c
+
+
