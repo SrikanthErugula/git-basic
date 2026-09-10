@@ -16,7 +16,4 @@ conflict resloved
 
 resetting 
 1. ABC
-2. XYZ
-3. 123
-3. 102030
-4. 112233
+
