@@ -4,8 +4,13 @@ A README.md file is the main documentation file in a Git repository. It describe
 1. asian 
 1. burger
 
-## one
+
+conflict resloved
+1. action
+2. bribe
+3. takencare
 1. something
 2. new
 3. any
 4. over
+
