@@ -6,3 +6,5 @@ A README.md file is the main documentation file in a Git repository. It describe
 
 two
 1. action
+2. bribe
+3. takencare
