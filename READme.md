@@ -14,6 +14,5 @@ conflict resloved
 3. any
 4. over
 
-resetting 
 
 
