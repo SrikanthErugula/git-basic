@@ -14,3 +14,6 @@ conflict resloved
 3. any
 4. over
 
+resetting 
+1. ABC
+2. XYZ
